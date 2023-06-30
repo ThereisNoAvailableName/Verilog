@@ -1,10 +1,10 @@
 !이 프로젝트는 상명대학교의 과제물로 제작되었습니다. 허락 없이 사용하지 말아주세요!
 !This project is made for the assignment of Sangmyung University. Please don't use it without permission!
-
+                          
 
 스테이트 머신을 이용하여 도어락을 구현한 베릴로그 코드입니다.
 동작 모드와 설정 모드 2가지의 모드를 가지며, sharp 버튼을 눌러서 모드를 변경합니다. 
-LED[3:2]를 통해 현재 모드드를 표시합니다.
+LED[3:2]를 통해 현재 모드를 표시합니다.
 LED[2]: 동작 모드   LED[3]: 설정 모드
 
 동작 모드:
