@@ -2,5 +2,4 @@
 
 Find '1101' among din.
 
-
-![Uploading waveform.png…]()
+![waveform](https://github.com/ThereisNoAvailableName/Verilog/assets/115004257/967a2c29-c18a-4483-a829-997655fc7f6b)
